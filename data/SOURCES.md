@@ -1,0 +1,13 @@
+| File | Scheme | URL | Academic Year | Downloaded on |
+|---|---|---|---|---|
+| ishan_uday.pdf | Ishan Uday (NER UG students) | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_ISHAN%20UDAY_2324.pdf | 2026-27 (verified in PDF) | 24 Nov 2026 |
+| ugc_pg_scholarship.pdf | National Scholarship for PG Studies (UGC) | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf | 2026-27 (verified in PDF) | 24 Nov 2026 |
+| post_matric_disabilities.pdf | Post Matric Scholarship for Students with Disabilities | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_POST_METRIC_SCHOLARSHIP_FOR_STUDENTS_WITH_DISABILITIES_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| post_matric_sc.pdf | Post Matric Scholarships for SC Students | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_POST_METRIC_SCHOLARSHIPS_FOR_SC_STUDENTS_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| post_matric_st.pdf | Post Matric Scholarships for ST Students | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_POST_METRIC_SCHOLARSHIPS_FOR_ST_STUDENTS_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| pm_scholarship_bsf.pdf | PM Scholarship Scheme for Ward of BSF | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_PRIME_MINISTERS_SCHOLARSHIP_SCHEME_FOR_WARD_OF_BSF_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| pm_scholarship_capf.pdf | PM Scholarship Scheme for Ward of CAPF | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_PRIME_MINISTERS_SCHOLARSHIP_SCHEME_FOR_WARD_OF_CAPF_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| pm_scholarship_central_police.pdf | PM Scholarship Scheme for Ward of Central Police | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_PRIME_MINISTERS_SCHOLARSHIP_SCHEME_FOR_WARD_OF_CENTRAL_POLICE_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| raghav_swaroop_trust.pdf | Raghav Swaroop Memorial Trust Scholarship | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_RAGHAV_SWAROOP_MEMORIAL_TRUST_SCHOLARSHIP_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| higher_education_girls_dote.pdf | Scholarship for Higher Education of Girls (DOTE) | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_SCHOLARSHIP_FOR_HIGHER_EDUCATION_OF_GIRLS_DOTE_2324.pdf | TO VERIFY | 24 Nov 2026 |
+| top_class.pdf | Top Class | https://scholarships.gov.in/public/schemeGuidelines/Guidelines_TOP_CLASS_2324.pdf | TO VERIFY | 24 Nov 2026 |
